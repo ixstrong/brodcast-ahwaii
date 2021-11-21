@@ -1,0 +1,24 @@
+h3,p,h4 {
+color: #ff000a;
+font-weight: bold;
+font-style: italic;
+font-family: courier New;
+font-size: 120px;
+}
+em,button {
+color: #ff000a;
+font-weight: bold;
+font-style: italic;
+font-size: 50px;
+}            
+a,input {
+color: Blue;
+font-weight: bold;
+font-style: italic;
+font-family: courier New;
+font-size: 70px;
+}
+.test{
+				border: solid purple;
+				background-color: black;
+}
